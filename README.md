@@ -1,14 +1,30 @@
-# EcoConciencia 🌍  
+# EcoConciencia
+
 Un repositorio para explorar y aprender sobre temas de conciencia ambiental.
 
-## Subtemas de EcoConciencia
-- **🔥Cambio_Climatico**: Impacto global, soluciones innovadoras y datos alarmantes.  
-- **♻️Reciclaje_Gestion_Residuos**: Reciclaje creativo, basura cero e innovación industrial.  
-- **☀️Energias_Renovables**: Energía solar, eólica e hidroeléctrica.  
-- **🌾Agricultura_Sostenible**: Agricultura orgánica, huertos urbanos y polinización.  
-- **🐾Conservacion_Biodiversidad**: Especies en peligro, reforestación y ecosistemas frágiles.  
-- **👩‍🏫Educacion_Ambiental**: Programas escolares, medios de comunicación y talleres.  
-- **💡Innovacion_Tecnologia_Verde**: Transporte sostenible, edificios verdes y gadgets ecológicos.  
-- **📜Politicas_Legislacion_Ambiental**: Acuerdos internacionales, políticas locales y activismo.  
-- **🛍️Consumo_Responsable**: Compras sostenibles, alimentación consciente y moda ética.  
-- **👥Comunidad_Colaboracion**: Cooperativas ecológicas, redes globales y voluntariado.  
+## Objetivos del Proyecto
+
+1. Crear conciencia sobre el cambio climático y sus impactos globales.
+2. Promover el uso de energías renovables y tecnologías verdes.
+3. Fomentar prácticas sostenibles como la agricultura orgánica y el consumo responsable.
+
+## Tecnologías Utilizadas
+
+- **Energías Renovables**: Energía solar, eólica e hidroeléctrica.
+- **Innovación Tecnológica Verde**: Transporte sostenible, edificios verdes y gadgets ecológicos.
+- **Educación Ambiental**: Programas escolares, medios de comunicación y talleres.
+
+> "La Tierra no es una herencia de nuestros padres, sino un préstamo de nuestros hijos." - Proverbio indígena americano
+
+[Visita nuestro sitio web para más información](https://www.ecoconciencia.org)
+
+![Imagen de EcoConciencia](https://www.example.com/imagen-eco.jpg)
+
+```python
+def calcular_huella_carbono(consumo):
+    factor_emision = 0.5  # Factor de emisión en kg CO2/kWh
+    return consumo * factor_emision
+
+huella = calcular_huella_carbono(1000)
+print(f"Huella de carbono: {huella} kg CO2")
+```

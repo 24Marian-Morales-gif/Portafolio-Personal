@@ -16,9 +16,10 @@ Un repositorio para explorar y aprender sobre temas de conciencia ambiental.
 
 > "La Tierra no es una herencia de nuestros padres, sino un préstamo de nuestros hijos." - Proverbio indígena americano
 
-[Visita nuestro sitio web para más información](https://www.ecoconciencia.org)
+Para más información muestro sitio web (https://ecoconciencia.org/) 
 
-![Imagen de EcoConciencia](https://www.example.com/imagen-eco.jpg)
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/f23b3ead-1aee-45b6-9380-9e73deeee597" />
+
 
 ```python
 def calcular_huella_carbono(consumo):
